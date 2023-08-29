@@ -4,23 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2a95c8e4-7fc7-4588-b13f-f55dca869a1d" name="Changes" comment="up">
-      <change afterPath="$PROJECT_DIR$/src/Core/ControlShowcase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Core/ControlStorage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Core/DistributiveStorageCore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Core/EmployeeWork.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Core/ShopCores.java" afterDir="false" />
+    <list default="true" id="a157fe9b-2d6b-4afc-a7ea-7239a185a174" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Shop/Entity/Shop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Shop/Entity/Shop.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Shop/Entity/Showcase.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Shop/Entity/Showcase.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Shop/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Shop/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Entity/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Entity/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Entity/Shop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Entity/Shop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Entity/Showcase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Entity/Showcase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Enums/SkillType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Enums/SkillType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Enums/Unit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Enums/Unit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/test.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +20,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -39,19 +30,21 @@
   </component>
   <component name="GitHubPullRequestSearchHistory"><![CDATA[{
   "lastFilter": {
-    "state": "OPEN",
-    "assignee": "GlukhovKA"
+    "state": "OPEN"
   }
 }]]></component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
-        <option name="accountId" value="ef739b78-2b8a-4c42-8902-ce19312456df" />
+        <option name="accountId" value="3daebf30-6e7d-460c-b114-c3b585570ac1" />
         <option name="url" value="https://github.com/GlukhovKA/Shop.git" />
       </UrlAndAccount>
     </option>
   </component>
-  <component name="ProjectId" id="2U6wFubKH0eBVOUezNdF86aCMMB" />
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2NQM7cehHMRkJdsu66MItAmF76b" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -64,10 +57,11 @@
     "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "project.structure.last.edited": "Project",
+    "last_opened_file_path": "C:/Users/Пользователь/IdeaProjects/Shop",
+    "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.editor"
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
   <component name="RunManager">
@@ -87,56 +81,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="2a95c8e4-7fc7-4588-b13f-f55dca869a1d" name="Changes" comment="" />
-      <created>1692273238071</created>
+      <changelist id="a157fe9b-2d6b-4afc-a7ea-7239a185a174" name="Changes" comment="" />
+      <created>1679591687751</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1692273238071</updated>
+      <updated>1679591687751</updated>
     </task>
-    <task id="LOCAL-00001" summary="up">
-      <option name="closed" value="true" />
-      <created>1692273543642</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1692273543642</updated>
-    </task>
-    <task id="LOCAL-00002" summary="up">
-      <option name="closed" value="true" />
-      <created>1692273572852</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1692273572852</updated>
-    </task>
-    <option name="localTasksCounter" value="3" />
     <servers />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State>
-              <option name="COLUMN_ID_WIDTH">
-                <map>
-                  <entry key="Table.Default.Author.ColumnIdWidth" value="94" />
-                  <entry key="Table.Default.Date.ColumnIdWidth" value="106" />
-                  <entry key="Table.Space.CommitStatus.ColumnIdWidth" value="106" />
-                </map>
-              </option>
-            </State>
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="up" />
-    <option name="LAST_COMMIT_MESSAGE" value="up" />
-  </component>
-  <component name="XSLT-Support.FileAssociations.UIState">
-    <expand />
-    <select />
   </component>
 </project>
